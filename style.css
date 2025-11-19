@@ -15,7 +15,7 @@ body {
 .letter {
 	position: relative;
 	font-family: "Rowdies", sans-serif;
-	font-size: 5rem;
+	font-size: 10rem;
 	color: transparent;
 	-webkit-text-stroke: 1px #b2fefa;
 	text-transform: uppercase;
